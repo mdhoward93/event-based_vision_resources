@@ -58,6 +58,7 @@
     - [Nuclear Verification](#nuclear_verification)
     - [Optical Communication](#optical_communication)
     - [Animal Behavior Monitoring](#animal_monitoring)
+    - [Vibrometry](#vibrometry)
     - [Optical Applications](#optical_applications)
       - [Auto-focus](#auto_focus)
       - [Speckle Analysis](#speckle_analysis)
@@ -2394,6 +2395,14 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2022.
 - <a name="Hamann22icprw"></a>Hamann, F., Gallego, G.,   
 *[Stereo Co-capture System for Recording and Tracking Fish with Frame- and Event Cameras](https://arxiv.org/pdf/2207.07332)*,  
 26th Int. Conf. Pattern Recognition (ICPR), Visual observation and analysis of Vertebrate And Insect Behavior (VAIB) Workshop, Montreal, Canada, 2022.
+
+
+<a name="vibrometry"></a>
+## Vibrometry
+- <a name="Howard22icassp"></a>Howard, M. D., Hirakawa, K.,   
+*[Event-Based Visual Microphone](https://doi.org/10.1109/ICASSP49357.2023.10094677)*,  
+IEEE Int. Conf. Acoust., Speech, Signal Proc. (ICASSP), 2023.
+
 
 <a name="optical_applications"></a>
 ## Optical Applications
